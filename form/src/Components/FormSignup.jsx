@@ -6,11 +6,6 @@ import Col from 'react-bootstrap/Col'
 import Form from 'react-bootstrap/Form'
 import Button from 'react-bootstrap/Button';
 
-
-
-
-
-
 class FormSignup extends React.Component {
 
 
@@ -77,8 +72,6 @@ class FormSignup extends React.Component {
         console.log(this.isSubmitted);
 
     }
-
-
 
     render() {
 
